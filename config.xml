@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.c1429009178166" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cocoon="http://cocoon.io/ns/1.0">
+
+    <name>MortiTest</name>
+    <description>
+        Github test
+    </description>
+    <author email="mortimergoro@gmail.com" href="https://cocoon.io">
+        Mortimer
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
